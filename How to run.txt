@@ -1,0 +1,11 @@
+1. Download tc in c drive.
+2. Download dosbox in c drive.
+3. Open dosbox in cmd.
+4. Open tc.exe in dosbox
+5. Copy and paste iagno.c file in bin of tc.
+6. Open iagno.c file in tc
+7. Compile and run the program.
+Have fun!
+
+To launch dosbox in fullscreen mode-
+Copy the file dosbox.conf inside dosbox folder. You can switch from full-screen mode to normal-screen using Alter+Ctrl. 
